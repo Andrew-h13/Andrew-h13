@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrew Hoang!
 
-🎓 Computer Science student at the University of Houston-Clear Lake (Graduating May 2023)  
+🎓 Computer Science graduate at the University of Houston-Clear Lake (Graduated May 2023)  
 📍 Located in Pearland, TX  
 📧 andrew.phi.h13@gmail.com | [LinkedIn](https://www.linkedin.com/in/andrew-h13/)
 

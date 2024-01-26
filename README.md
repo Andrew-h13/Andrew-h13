@@ -29,6 +29,11 @@ I am a passionate Computer Science student with a focus on web development and p
 - Utilized GitHub for version control, promoting efficient collaboration and code tracking.
 - Engineered an intuitive chat interface to enhance user interaction.
 
+ ### Current Project: Inventory App (React.js + MySQL)
+
+- Building an Inventory app using React.js for the frontend and MySQL for the backend.
+- Implementing features to enhance user experience and streamline inventory management.
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrew-h13&show_icons=true&count_private=true)

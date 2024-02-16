@@ -29,9 +29,9 @@ I am a passionate Computer Science student with a focus on web development and p
 - Utilized GitHub for version control, promoting efficient collaboration and code tracking.
 - Engineered an intuitive chat interface to enhance user interaction.
 
- ### Current Project: Inventory App (React.js + MySQL)
+ ### Current Project: Inventory App (React native typescript + MySQL)
 
-- Building an Inventory app using React.js for the frontend and MySQL for the backend.
+- Building an Inventory app using React native typescript for the frontend and MySQL for the backend.
 - Implementing features to enhance user experience and streamline inventory management.
 
 ## 📊 GitHub Stats

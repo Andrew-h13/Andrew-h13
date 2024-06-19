@@ -34,7 +34,7 @@ I am a passionate Computer Science student with a focus on web development and p
 - Building an Inventory app using React native typescript for the frontend and MySQL for the backend.
 - Implementing features to enhance user experience and streamline inventory management.
 
-### Current Project: Tamagotcha fitness app (React native typescript)
+### Current Project: Tamagotchi fitness app (React native typescript)
 
 - Building an Inventory app using React native typescript for the frontend and backend is currently unknown.
 - Implementing Tamagotcha like avatar that grows the more you stay healthy, also to incorprate basic fitness features.

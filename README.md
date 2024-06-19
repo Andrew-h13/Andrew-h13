@@ -34,6 +34,16 @@ I am a passionate Computer Science student with a focus on web development and p
 - Building an Inventory app using React native typescript for the frontend and MySQL for the backend.
 - Implementing features to enhance user experience and streamline inventory management.
 
+### Current Project: Tamagotcha fitness app (React native typescript)
+
+- Building an Inventory app using React native typescript for the frontend and backend is currently unknown.
+- Implementing Tamagotcha like avatar that grows the more you stay healthy, also to incorprate basic fitness features.
+- Features includes: Step Counter, Workout Schedule, Workout Calender, Calorie counter/tracker, food scanner, and macro calculator.
+
+### Current Project: Portfolio Website (React typescript)
+
+- Creating Portfolio website using React/Next.js (currently on next.js) and Typescript and deployed on vercel.
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrew-h13&show_icons=true&count_private=true)

@@ -12,7 +12,7 @@ I am a passionate Computer Science student with a focus on web development and p
 
 - **Programming Languages:** Java, C, C++, C#, JavaScript, SQL
 - **Web Development:** ReactJS, HTML, CSS
-- **Tools:** Visual Studio, Azure, XCode, .NET Framework
+- **Tools:** Visual Studio, Azure, XCode, .NET Framework, figma, Git
 - **Operating Systems:** Fedora, Windows, MacOS
 
 ## 🏗️ Project Highlights

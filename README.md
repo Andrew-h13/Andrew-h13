@@ -29,16 +29,9 @@ I am a passionate Computer Science student with a focus on web development and p
 - Utilized GitHub for version control, promoting efficient collaboration and code tracking.
 - Engineered an intuitive chat interface to enhance user interaction.
 
- ### Current Project: Inventory App (React native typescript + MySQL)
+ ### Current Project: Crosslising Chrome Extentsion and Mobile App (React Typescript | React Native | Sql or MongoDB)
 
-- Building an Inventory app using React native typescript for the frontend and MySQL for the backend.
-- Implementing features to enhance user experience and streamline inventory management.
-
-### Current Project: Tamagotchi fitness app (React native typescript)
-
-- Building an Inventory app using React native typescript for the frontend and backend is currently unknown.
-- Implementing Tamagotcha like avatar that grows the more you stay healthy, also to incorprate basic fitness features.
-- Features includes: Step Counter, Workout Schedule, Workout Calender, Calorie counter/tracker, food scanner, and macro calculator.
+- Transfer listing from depop to ebay and vice versa.
 
 ### Current Project: Portfolio Website (React typescript)
 
